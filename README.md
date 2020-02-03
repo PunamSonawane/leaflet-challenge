@@ -14,7 +14,7 @@ The USGS provides earthquake data in a number of different formats, updated ever
 data set to visualize. When we click on a data set, for example 'All Earthquakes from the Past 7 Days', we will be getting a JSON 
 representation of that data. We will be using the URL of this JSON to pull in the data for our visualization.
  * Basic Visualization an earthquake data set
-	![Basic](/Images/2-BasicMap.jpg)
+	![Basic](Leaflet-Step-1/Images/2-BasicMap.jpg)
  
 The USGS wants to plot a second data set on map to illustrate the relationship between tectonic plates and seismic activity. 
 Need to pull in a second data set and visualize it along side your original set of data. 
